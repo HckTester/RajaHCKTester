@@ -1,0 +1,74 @@
+2023-12-24 19:13:54 [Final_TC1] (main:) Login Started
+2023-12-24 19:14:33 [Final_TC1] (main:) Test Case 1 - Login Successfully - Completed
+2023-12-24 19:14:34 [Final_TC1] (main:) Trending Click process Started
+2023-12-24 19:14:37 [Final_TC1] (main:) Trending Click process - Completed
+2023-12-24 19:14:37 [Final_TC1] (main:) Assertion is getting Pass
+2023-12-24 19:14:37 [Final_TC1] (main:) Logout process Started
+2023-12-24 19:14:47 [Final_TC1] (main:) Logout Successfully - Completed
+2023-12-24 19:14:58 [Final_TC2] (main:) Login successfully - started
+2023-12-24 19:15:37 [Final_TC2] (main:) Login successfully - Completed
+2023-12-24 19:19:06 [Final_TC1] (main:) Login Started
+2023-12-24 19:19:45 [Final_TC1] (main:) Test Case 1 - Login Successfully - Completed
+2023-12-24 19:19:45 [Final_TC1] (main:) Trending Click process Started
+2023-12-24 19:19:48 [Final_TC1] (main:) Trending Click process - Completed
+2023-12-24 19:19:48 [Final_TC1] (main:) Assertion is getting Pass
+2023-12-24 19:19:48 [Final_TC1] (main:) Logout process Started
+2023-12-24 19:19:58 [Final_TC1] (main:) Logout Successfully - Completed
+2023-12-24 19:20:08 [Final_TC2] (main:) Login successfully - started
+2023-12-24 19:20:47 [Final_TC2] (main:) Login successfully - Completed
+2023-12-24 19:22:08 [Final_TC1] (main:) Login Started
+2023-12-24 19:22:45 [Final_TC1] (main:) Test Case 1 - Login Successfully - Completed
+2023-12-24 19:22:45 [Final_TC1] (main:) Trending Click process Started
+2023-12-24 19:22:49 [Final_TC1] (main:) Trending Click process - Completed
+2023-12-24 19:22:49 [Final_TC1] (main:) Assertion is getting Pass
+2023-12-24 19:22:49 [Final_TC1] (main:) Logout process Started
+2023-12-24 19:22:59 [Final_TC1] (main:) Logout Successfully - Completed
+2023-12-24 19:23:08 [Final_TC2] (main:) Login successfully - started
+2023-12-24 19:23:46 [Final_TC2] (main:) Login successfully - Completed
+2023-12-24 19:23:46 [Final_TC2] (main:) Click on History  - Started
+2023-12-24 19:23:48 [Final_TC2] (main:) Click on History - Completed
+2023-12-24 19:23:48 [Final_TC2] (main:) Logout process - Started
+2023-12-24 19:23:56 [Final_TC2] (main:) Logout process - Completed
+2024-01-30 09:15:49 [Final_TC1] (main:) Login Started
+2024-01-30 09:16:28 [Final_TC1] (main:) Test Case 1 - Login Successfully - Completed
+2024-01-30 09:16:28 [Final_TC1] (main:) Trending Click process Started
+2024-01-30 09:16:28 [Final_TC1] (main:) Logout process Started
+2024-01-30 09:19:26 [Final_TC1] (main:) Login Started
+2024-01-30 09:20:04 [Final_TC1] (main:) Test Case 1 - Login Successfully - Completed
+2024-01-30 09:20:04 [Final_TC1] (main:) Trending Click process Started
+2024-01-30 09:20:08 [Final_TC1] (main:) Trending Click process - Completed
+2024-01-30 09:20:08 [Final_TC1] (main:) Assertion is getting Pass
+2024-01-30 09:20:08 [Final_TC1] (main:) Logout process Started
+2024-01-30 09:20:18 [Final_TC1] (main:) Logout Successfully - Completed
+2024-01-30 09:20:28 [Final_TC2] (main:) Login successfully - started
+2024-01-30 09:21:06 [Final_TC2] (main:) Login successfully - Completed
+2024-01-30 09:21:06 [Final_TC2] (main:) Click on History  - Started
+2024-01-30 09:21:08 [Final_TC2] (main:) Click on History - Completed
+2024-01-30 09:21:08 [Final_TC2] (main:) Logout process - Started
+2024-01-30 09:21:15 [Final_TC2] (main:) Logout process - Completed
+2024-01-30 09:38:01 [Final_TC1] (main:) Login Started
+2024-01-30 09:38:41 [Final_TC1] (main:) Test Case 1 - Login Successfully - Completed
+2024-01-30 09:38:41 [Final_TC1] (main:) Trending Click process Started
+2024-01-30 09:38:45 [Final_TC1] (main:) Trending Click process - Completed
+2024-01-30 09:38:45 [Final_TC1] (main:) Assertion is getting Pass
+2024-01-30 09:38:45 [Final_TC1] (main:) Logout process Started
+2024-01-30 09:38:56 [Final_TC1] (main:) Logout Successfully - Completed
+2024-01-30 09:39:06 [Final_TC2] (main:) Login successfully - started
+2024-01-30 09:39:45 [Final_TC2] (main:) Login successfully - Completed
+2024-01-30 09:39:45 [Final_TC2] (main:) Click on History  - Started
+2024-01-30 09:39:47 [Final_TC2] (main:) Click on History - Completed
+2024-01-30 09:39:47 [Final_TC2] (main:) Logout process - Started
+2024-01-30 09:39:55 [Final_TC2] (main:) Logout process - Completed
+2024-01-30 09:45:45 [Final_TC1] (main:) Login Started
+2024-01-30 09:46:24 [Final_TC1] (main:) Test Case 1 - Login Successfully - Completed
+2024-01-30 09:46:24 [Final_TC1] (main:) Trending Click process Started
+2024-01-30 09:46:27 [Final_TC1] (main:) Trending Click process - Completed
+2024-01-30 09:46:27 [Final_TC1] (main:) Assertion is getting Pass
+2024-01-30 09:46:27 [Final_TC1] (main:) Logout process Started
+2024-01-30 09:46:38 [Final_TC1] (main:) Logout Successfully - Completed
+2024-01-30 09:46:49 [Final_TC2] (main:) Login successfully - started
+2024-01-30 09:47:27 [Final_TC2] (main:) Login successfully - Completed
+2024-01-30 09:47:27 [Final_TC2] (main:) Click on History  - Started
+2024-01-30 09:47:29 [Final_TC2] (main:) Click on History - Completed
+2024-01-30 09:47:29 [Final_TC2] (main:) Logout process - Started
+2024-01-30 09:47:37 [Final_TC2] (main:) Logout process - Completed
